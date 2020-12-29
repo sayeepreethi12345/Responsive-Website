@@ -20,7 +20,7 @@
 }
 .jumbotron{
   text-align: center;
-  background: url('../assets/Hero-Image.jpg') no-repeat;
+  background: url('Hero-Image.jpg') no-repeat;
 }
 .jumbotron .btn{
   padding:14px 24px;
