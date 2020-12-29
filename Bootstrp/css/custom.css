@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+.yanone{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Arvo', serif;
+}
+.Langar{
+  font-family: 'Langar', cursive;
+}
+ .navbar-light .navbar-nav .nav-link {
+    color: #999;
+    font-size:28px;
+    font-weight: 800;
+  line-height: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #e7580a;
+}
+.jumbotron{
+  text-align: center;
+  background: url('../assets/Hero-Image.jpg') no-repeat;
+}
+.jumbotron .btn{
+  padding:14px 24px;
+  font-size:21px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-transform: uppercase;
+ }
+ .jumbotron h1
+{
+  color: white;
+    text-transform: uppercase;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.jumbotron p{
+  color:white;
+  text-transform: :uppercase;
+  font-family: Langar;
+  padding:30px 5px 30px 5px;
+}
+.section-heading
+{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size:80px;
+  font-weight:800;
+  padding-top: 60px;
+}
+#about p
+{
+      font-family: 'Langar',cursive ;
+      font-size:25px;
+}
+#contact h3
+{
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:60px;
+
+}
+#contact p{
+  font-family:'Langar',cursive;
+  font-size:25px;
+  padding:2px;
+}
+
+footer{
+  margin-top:20px;
+  background:#000;
+  color:#fff;
+  font-family: 'Langar',cursive ;
+  font-size:25px;
+  text-align:center;
+}
